@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Student @ Rice University
+CS @ Rice University
